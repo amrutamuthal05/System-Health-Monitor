@@ -1,0 +1,5 @@
+System Health Monitoring Report - 2024-06-14 17:00:00
+--------------------------------------
+ALERT: CPU usage is high: 85.2%
+ALERT: Memory usage is high: 90.1%
+ALERT: Disk usage is high: 87%
